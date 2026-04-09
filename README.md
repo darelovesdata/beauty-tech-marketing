@@ -1,6 +1,5 @@
-# Beauty | Tech | Marketing Website
-
-A modern marketing website for beauty industry insights, brand intelligence, and marketing strategy content.
+# BeautyTech Marketing 
+A modern marketing website for beauty industry insights, brand intelligence and marketing strategy content.
 
 ## Project Structure
 
@@ -31,27 +30,6 @@ beauty-tech-marketing-project/
 
 1. Extract the project files
 2. Open `index.html` in your browser
-
-### Optional: Local Server
-
-For better performance (especially with animations), use a local server:
-
-```bash
-# Using Python 3
-python -m http.server 8000
-
-# Using Node.js http-server
-npx http-server
-
-# Using PHP
-php -S localhost:8000
-```
-
-Then navigate to:
-
-- Python: `http://localhost:8000`
-- Node: `http://localhost:8080`
-- PHP: `http://localhost:8000`
 
 ## Browser Support
 
@@ -133,7 +111,6 @@ Fonts can be easily swapped in the `<head>` of `index.html` and `css/styles.css`
 
 ## Files Created/Modified
 
-- **Removed**: Emojis (✓, 🤖, 📱, 🌿, etc.) replaced with text labels
 - **Separated**: CSS from inline styles into `css/styles.css`
 - **Created**: Modular JavaScript in `js/main.js`
 - **Structured**: Organized folders for maintainability
@@ -148,4 +125,4 @@ Fonts can be easily swapped in the `<head>` of `index.html` and `css/styles.css`
 
 ## License
 
-© 2026 Beauty | Tech | Marketing. All rights reserved.
+© 2026 BeautyTech Marketing (BTM). All rights reserved.
