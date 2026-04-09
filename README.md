@@ -3,7 +3,7 @@ A modern marketing website for beauty industry insights, brand intelligence and 
 
 ## Project Structure
 
-```
+```directory
 beauty-tech-marketing-project/
 ├── index.html          # Main HTML file
 ├── css/
